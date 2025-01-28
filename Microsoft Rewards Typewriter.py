@@ -1,6 +1,6 @@
 '''
 This is a first automation project to automate microsoft search rewards on pc
-Browser: Chromebrowser
+Browser: Microsoft Edge
 '''
 
 
